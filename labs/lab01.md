@@ -1,5 +1,4 @@
-EDITED TO CHECK GITHUB ACTION
-
+Edited to check Github Action (Activity 1.2)
 
 # 1 - Introduction to GitHub Actions
 In this lab you will update and run your first workflow.
